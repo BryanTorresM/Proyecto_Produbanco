@@ -2,7 +2,7 @@
 ## Optimización de Procesos y Toma de Decisiones
 
 ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-green)
-![Tool](https://img.shields.io/badge/Tools-MySQL%20|%20VS%20Code-blue)
+![Tool](https://img.shields.io/badge/Tools-Python%20|%20VS%20Code-blue)
 ![Role](https://img.shields.io/badge/Role-Data%20Analyst-orange)
 
 ### 📝 Introduccion
